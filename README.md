@@ -10,10 +10,17 @@ Classifying job titles into their respective Job Function, Job Level, and Job Ro
 #The most recent version of historical records
 #Please unzip before running "netskope_cnn_execute.py"
 
+### predict_level.py/predict_fr.py
+#These python files load the pretrained word2vec and cnn models and return the predicted classes. 
+These files require two arguments, the name of the input csv and the desired name for the output csv file.
+#For example: $python predict_level.py "inputs.csv" "outputs.csv"
+#The main assumption is that the csv will have a column labelled "Title".
+#The output csv file maintain the same format as the input csv file with the addition of the predicted values.
+
 ### netskope_cnn_execute.py 
-#The main python file to be executed. This script calls the modules/functions that perform preprocessing, implementation
-of the models, training, testing etc. 
-When called, it takes in 2 additional arguments, the name of the input data which I have named "Historical_Lead_Records_with_id.csv" and the classification type, either "level" for classifying job levels or "fr" for classifying Job Function/Role. For example a call in terminal can look like this: python netskope_cnn_execute.py "Historical_Lead_Records_with_id.csv" "level"
+#The main python file to be executed. This script calls the modules/functions that perform preprocessing, implementation of the models, training, testing etc. 
+When called, it takes in 2 additional arguments, the name of the input data which I have named "Historical_Lead_Records_with_id.csv" and the classification type, either "level" for classifying job levels or "fr" for classifying Job Function/Role. 
+For example a call in terminal can look like this: $python netskope_cnn_execute.py "Historical_Lead_Records_with_id.csv" "level"
 
 ### data_preprocessing.py
 #This file contains the functions and methods for preprocessing the historical data so that it is fit for training/testing purposes 
@@ -40,8 +47,4 @@ When called, it takes in 2 additional arguments, the name of the input data whic
 #These are the saved models for the Function/Role and Level classification problem. You can load the model by calling
 #torch.load("cnn_model_function_role.pth") or torch.load("cnn_model_level.pth"). Please unzip before running.
 
-### predict_level.py/predict_fr.py
-#These python files are a skeleton for how the pretrained models can be loaded and used to predict the level or function/role on several inputs. The input file is one argument and #the desired output file will be another argument. For example:
-#python predict_level.py "inputs.csv" "outputs.csv"
-#The main assumption is that the csv will have a column labelled "Title".
-#The output csv file maintain the same format as the input csv file with the addition of the predicted values.
+
