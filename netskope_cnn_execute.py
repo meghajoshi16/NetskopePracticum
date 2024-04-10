@@ -59,7 +59,7 @@ historical_remapped = pre.to_csv(preprocessed_df)
 
 from model_embed_and_train import model_preprocess
 
-model_embed = model_preprocess(historical_remapped[1:1000], class_prob = sys.argv[2])
+model_embed = model_preprocess(historical_remapped, class_prob = sys.argv[2])
 model_embed.train_test_split()
 model_embed.create_word_2_vec_model()
 model_embed.create_cnn_model()
