@@ -22,7 +22,7 @@ These files require two arguments, the name of the input csv and the desired nam
 
 For example: $python predict_level.py "inputs.csv" "outputs.csv" 
 
-The main assumption is that the csv will have a column labelled "Title".
+The main assumption is that the input csv will have a column labelled "Title".
 
 The output csv file maintain the same format as the input csv file with the addition of the predicted values.
 
