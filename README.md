@@ -38,7 +38,7 @@ When called, it takes in 2 additional arguments, the name of the input data whic
 
 ### cnn_model_function_role.pth/cnn_model_level.pth
 #These are the saved models for the Function/Role and Level classification problem. You can load the model by calling
-#torch.load("cnn_model_function_role.pth") or torch.load("cnn_model_level.pth")
+#torch.load("cnn_model_function_role.pth") or torch.load("cnn_model_level.pth"). Please unzip before running.
 
 ### predict_level.py/predict_fr.py
 #These python files are a skeleton for how the pretrained models can be loaded and used to predict the level or function/role on several inputs. The input file is one argument and #the desired output file will be another argument. For example:
