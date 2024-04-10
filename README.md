@@ -33,7 +33,7 @@ When called, it takes in 2 additional arguments, the name of the input data whic
 ### preds_function_role.csv
 #This csv file is the testing data frame with the inclusion of the predicted Function-Role written to a csv.
 
-### job_level_unique.csv
+### preds_level.csv
 #This csv file is the testing data frame with the inclusion of the predicted Job Level written to a csv. 
 
 ### cnn_model_function_role.pth/cnn_model_level.pth
