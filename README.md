@@ -44,7 +44,7 @@ This file contains the functions and methods needed to split the data into train
 
 ### cnn.py 
 
-This file contains the constructor, and functions/methods necessary for performing cnn (convolutional nueral networks).
+This file contains the constructor, and functions/methods necessary for performing cnn (convolutional neural networks).
 
 ### func_role_unique.csv
 
