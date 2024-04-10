@@ -1,21 +1,30 @@
 # NetskopePracticum
+
 Classifying job titles into their respective Job Function, Job Level, and Job Role by implementing a word2vec model as an embedding method and feeding representation into a cnn model.  
 
 ## Files: 
 
 ### environment/environment_setup.md 
-#Contains details on how to set up a conda environment compatible with the required libraries 
+
+Contains details on how to set up a conda environment compatible with the required libraries 
 
 ### Historical_Lead_Records_with_id.csv.zip
-#The most recent version of historical records
-#Please unzip before running "netskope_cnn_execute.py"
+
+The most recent version of historical records
+
+Please unzip before running "netskope_cnn_execute.py"
 
 ### predict_level.py/predict_fr.py
-#These python files load the pretrained word2vec and cnn models and return the predicted classes. 
+
+These python files load the pretrained word2vec and cnn models and return the predicted classes. 
+
 These files require two arguments, the name of the input csv and the desired name for the output csv file.
-#For example: $python predict_level.py "inputs.csv" "outputs.csv"
-#The main assumption is that the csv will have a column labelled "Title".
-#The output csv file maintain the same format as the input csv file with the addition of the predicted values.
+
+For example: $python predict_level.py "inputs.csv" "outputs.csv"
+
+The main assumption is that the csv will have a column labelled "Title".
+
+The output csv file maintain the same format as the input csv file with the addition of the predicted values.
 
 ### netskope_cnn_execute.py 
 #The main python file to be executed. This script calls the modules/functions that perform preprocessing, implementation of the models, training, testing etc. 
