@@ -6,11 +6,11 @@ Classifying job titles into their respective Job Function, Job Level, and Job Ro
 
 ### environment/environment_setup.md 
 
-Contains details on how to set up a conda environment compatible with the required libraries 
+Contains details on how to set up a conda environment compatible with the required libraries.
 
 ### Historical_Lead_Records_with_id.csv.zip
 
-The most recent version of historical records
+The most recent version of historical records.
 
 Please unzip before running "netskope_cnn_execute.py"
 
@@ -36,7 +36,7 @@ For example a call in terminal can look like this: $python netskope_cnn_execute.
 
 ### data_preprocessing.py
 
-This file contains the functions and methods for preprocessing the historical data so that it is fit for training/testing purposes 
+This file contains the functions and methods for preprocessing the historical data so that it is fit for training/testing purposes.
 
 ### model_embed_and_train.py 
 
@@ -44,7 +44,7 @@ This file contains the functions and methods needed to split the data into train
 
 ### cnn.py 
 
-This file contains the constructor, and functions/methods necessary for performing cnn (convolutional nueral networks)
+This file contains the constructor, and functions/methods necessary for performing cnn (convolutional nueral networks).
 
 ### func_role_unique.csv
 
@@ -64,8 +64,18 @@ This csv file is the testing data frame with the inclusion of the predicted Job 
 
 ### cnn_model_function_role.pth/cnn_model_level.pth
 
-These are the saved models for the Function/Role and Level classification problem. You can load the model by calling:
+These are the saved models for the Function/Role and Level classification problem. 
 
-torch.load("cnn_model_function_role.pth") or torch.load("cnn_model_level.pth"). Please unzip before running.
+These models are called in predict_level.py or predict_fr.py.
+
+Please unzip before running.
+
+### word2vec.model
+
+Saved word2vec model called in predict_level.py and predict_fr.py.
+
+Please unzip before running.
+
+
 
 
