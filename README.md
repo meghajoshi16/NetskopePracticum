@@ -6,8 +6,9 @@ Classifying job titles into their respective Job Function, Job Level, and Job Ro
 ### environment/environment_setup.md 
 #Contains details on how to set up a conda environment compatible with the required libraries 
 
-### Historical_Lead_Records_with_id.csv 
+### Historical_Lead_Records_with_id.csv.zip
 #The most recent version of historical records
+#Please unzip before running "netskope_cnn_execute.py"
 
 ### netskope_cnn_execute.py 
 #The main python file to be executed. This script calls the modules/functions that perform preprocessing, implementation
