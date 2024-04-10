@@ -1,0 +1,28 @@
+Job Level,levelRemapped
+Manager,Manager
+Contributor,Contributor
+Director,Director
+C-Level,C-Level
+Executive,Executive
+Unknown,Unknown
+Non-Manager,Contributor
+VP-Level,Executive
+Decision maker,Contributor
+Team Lead,Contributor
+VP/Director,Director
+Engineer,Contributor
+Engineer/Admin,Contributor
+CxO,C-Level
+C-level,C-Level
+VP,Executive
+Member of Technical Staff 2,Contributor
+Director Level,Director
+Director / C-Level,C-Level
+Individual Contributor,Contributor
+contributor,Contributor
+C-suite,C-Level
+contribtuor,Contributor
+Management,Manager
+Director of Enterprise Cloud Business,Director
+Admin,Contributor
+Security Analyst,Contributor

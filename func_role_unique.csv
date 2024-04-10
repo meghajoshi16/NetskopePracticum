@@ -1,0 +1,258 @@
+Job Function,Job Role,jobFunctionRoleRemapped,count
+IT,Information Security,IT-Information Security,258496
+IT,Networking,IT-Networking,193651
+Engineering,Development,Engineering,65023
+IT,IT General,IT-General,63159
+Sales,None Technical,Non-ICP,33941
+Management,None Technical,Non-ICP,21855
+IT,Governance Risk Compliance,Risk/Legal/Compliance,19272
+Unknown,None Technical,Non-ICP,18962
+Support,None Technical,Non-ICP,15935
+IT,Development,IT-Development,13842
+Operations,None Technical,Non-ICP,12205
+Marketing,None Technical,Non-ICP,9939
+Finance,None Technical,Non-ICP,9912
+IT,Program Management,IT-General,9473
+IT,Systems,IT-Networking,7539
+IT,Help Desk,IT-General,7292
+IT,Business Systems,IT-General,7013
+Engineering,Networking,Engineering,6816
+Services,None Technical,Non-ICP,4966
+IT,None Technical,IT-General,4189
+IT,Operations,IT-General,3889
+Management,Networking,Non-ICP,3805
+Management,IT General,Non-ICP,3267
+Education,None Technical,Non-ICP,2918
+IT,Data,IT-General,2880
+Public Sector,None Technical,Non-ICP,2725
+Human Resource,None Technical,Non-ICP,2439
+Other,None Technical,Non-ICP,2092
+Corporate,None Technical,Non-ICP,1786
+Engineering,Information Security,Engineering,1738
+Administration,None Technical,Non-ICP,1725
+Legal,None Technical,Risk/Legal/Compliance,1541
+Management,Development,Non-ICP,1394
+IT,Communications,IT-General,1258
+Purchasing,None Technical,Procurement,1257
+Engineering,IT General,Engineering,1256
+Procurement,None Technical,Procurement,1198
+Medical,None Technical,Non-ICP,1132
+Management,Information Security,Non-ICP,1058
+Engineering,Help Desk,Engineering,1032
+Engineering,Operations,Engineering,769
+Engineering,Data,Engineering,541
+IT,Integration,IT-General,541
+Facilities,None Technical,Non-ICP,499
+Engineering,Business Systems,Engineering,409
+IT,IT Facilities,IT-General,385
+Engineering,None Technical,Engineering,360
+Engineering,Program Management,Engineering,317
+Engineering,Governance Risk Compliance,Engineering,297
+Management,Business Systems,Non-ICP,288
+Unknown,IT General,Non-ICP,213
+Sales,Networking,Non-ICP,207
+Finance,Information Security,Non-ICP,201
+Finance,Governance Risk Compliance,Risk/Legal/Compliance,198
+Sales,Business Systems,Non-ICP,190
+Support,Networking,Non-ICP,179
+Engineering,Systems,Engineering,173
+Management,Governance Risk Compliance,Risk/Legal/Compliance,156
+Facilities,Networking,Non-ICP,147
+Sales,Information Security,Non-ICP,146
+Sales,Development,Non-ICP,143
+Finance,Networking,Non-ICP,139
+Support,Information Security,Non-ICP,119
+Facilities,Information Security,Non-ICP,114
+Administration,Information Security,Non-ICP,112
+Administration,Networking,Non-ICP,100
+IT,Training,IT-General,94
+Unknown,Information Security,Non-ICP,94
+IT,Vendor Management,IT-General,87
+Operations,Networking,Non-ICP,86
+Human Resource,Information Security,Non-ICP,79
+Public Sector,Networking,Non-ICP,71
+Unknown,Non-IT,Non-ICP,69
+Education,Networking,Non-ICP,68
+IT,Business Continuity,IT-General,63
+Human Resource,Networking,Non-ICP,62
+Finance,Business Systems,Non-ICP,59
+Facilities,IT Facilities,Non-ICP,56
+Management,Program Management,Non-ICP,56
+Facilities,Operations,Non-ICP,53
+Engineering,Communications,Engineering,52
+Management,Vendor Management,Non-ICP,52
+Services,Networking,Non-ICP,51
+Marketing,Networking,Non-ICP,49
+Medical,Networking,Non-ICP,49
+Services,Help Desk,Non-ICP,49
+Marketing,Development,Non-ICP,42
+Unknown,Networking,Non-ICP,42
+Human Resource,Development,Non-ICP,41
+Services,Development,Non-ICP,41
+Operations,Information Security,Non-ICP,40
+Operations,Operations,Non-ICP,38
+Facilities,IT General,Non-ICP,37
+Support,Help Desk,Non-ICP,37
+Engineering,IT Facilities,Engineering,36
+Corporate,Information Security,Non-ICP,35
+Marketing,Business Systems,Non-ICP,34
+Management,Data,Non-ICP,32
+Facilities,Business Systems,Non-ICP,31
+Management,Systems,Non-ICP,30
+Engineering,Vendor Management,Engineering,28
+Unknown,Development,Non-ICP,27
+Facilities,Development,Non-ICP,26
+Education,Development,Non-ICP,25
+Facilities,Help Desk,Non-ICP,25
+Services,Information Security,Non-ICP,25
+Finance,Development,Non-ICP,24
+Operations,Development,Non-ICP,24
+Finance,IT General,Non-ICP,23
+Corporate,Networking,Non-ICP,22
+Engineering,Training,Engineering,22
+Sales,IT General,Non-ICP,22
+Marketing,IT General,Non-ICP,21
+Management,Help Desk,Non-ICP,20
+Procurement,Governance Risk Compliance,Procurement,20
+Facilities,Governance Risk Compliance,Risk/Legal/Compliance,18
+Management,Communications,Non-ICP,18
+Corporate,Development,Non-ICP,17
+Support,Business Systems,Non-ICP,14
+Public Sector,Information Security,Non-ICP,13
+Legal,Information Security,Risk/Legal/Compliance,12
+Management,SVP,Non-ICP,12
+Sales,Governance Risk Compliance,Risk/Legal/Compliance,12
+Facilities,Program Management,Non-ICP,11
+Management,Operations,Non-ICP,11
+Public Sector,Development,Non-ICP,11
+Information Security,None Technical,IT-Information Security,10
+Operations,Business Systems,Non-ICP,10
+Operations,Program Management,Non-ICP,10
+Education,IT General,Non-ICP,9
+Legal,Development,Risk/Legal/Compliance,9
+Medical,Information Security,Non-ICP,9
+Sales,Systems,Non-ICP,9
+Administration,Development,Non-ICP,8
+Facilities,Systems,Non-ICP,8
+Finance,Program Management,Non-ICP,8
+IT,Security,IT-Information Security,8
+Management,Business Continuity,Non-ICP,7
+Management,CEO,Non-ICP,7
+Sales,Help Desk,Non-ICP,7
+Engineering,Business Continuity,Engineering,6
+IT - Network,None Technical,IT-Networking,6
+Management,Founder And CEO,Non-ICP,6
+Medical,Development,Non-ICP,6
+Administration,Governance Risk Compliance,Risk/Legal/Compliance,5
+Administration,Program Management,Non-ICP,5
+Education,Data,Non-ICP,5
+Engineering & Technical,None Technical,Non-ICP,5
+Enterprise Architecture,None Technical,Non-ICP,5
+Field Marketing,None Technical,Non-ICP,5
+Human Resource,Business Systems,Non-ICP,5
+Human Resource,Help Desk,Non-ICP,5
+IT - Security,None Technical,IT-Information Security,5
+Marketing,Information Security,Non-ICP,5
+Medical,Business Systems,Non-ICP,5
+Operations,IT General,Non-ICP,5
+Sales,Operations,Non-ICP,5
+Sales,Vendor Management,Non-ICP,5
+Corporate,Program Management,Non-ICP,4
+Finance,Systems,Non-ICP,4
+Management,Chief Executive Officer & President,Non-ICP,4
+Management,Executive,Non-ICP,4
+Support,Development,Non-ICP,4
+Unknown,Communications,Non-ICP,4
+Education,Information Security,Non-ICP,3
+Facilities,Integration,Non-ICP,3
+Facilities,Non-IT,Non-ICP,3
+Field / Outside Sales,None Technical,Non-ICP,3
+Finance,Data,Non-ICP,3
+Finance,Help Desk,Non-ICP,3
+Financial Planning & Analysis,None Technical,Non-ICP,3
+Human Resource,Communications,Non-ICP,3
+Human Resource,IT General,Non-ICP,3
+Human Resource,Program Management,Non-ICP,3
+Human Resource,Systems,Non-ICP,3
+Legal,Networking,Risk/Legal/Compliance,3
+Management,Integration,Non-ICP,3
+Management,IT Facilities,Non-ICP,3
+Management,Training,Non-ICP,3
+Operations,Governance Risk Compliance,Risk/Legal/Compliance,3
+Operations,Help Desk,Non-ICP,3
+Privacy,None Technical,Non-ICP,3
+Procurement,Networking,Procurement,3
+Procurement,Operations,Procurement,3
+Public Sector,Program Management,Non-ICP,3
+Sales,Non-IT,Non-ICP,3
+Services,IT General,Non-ICP,3
+Unknown,Business Systems,Non-ICP,3
+Administration,Help Desk,Non-ICP,2
+Administration,IT Facilities,Non-ICP,2
+Education,Governance Risk Compliance,Risk/Legal/Compliance,2
+Engineering,Integration,Engineering,2
+Facilities,Data,Non-ICP,2
+Facilities,"Senior Manager, Critical Facilities",Non-ICP,2
+Facilities,"Senior Manager, Information Technology",IT-General,2
+Human Resource,Data,Non-ICP,2
+Human Resource,Governance Risk Compliance,Risk/Legal/Compliance,2
+Information Technology,Information Security,IT-Information Security,2
+Infrastructure,None Technical,Non-ICP,2
+Legal,Governance Risk Compliance,Risk/Legal/Compliance,2
+Legal,Training,Risk/Legal/Compliance,2
+Management,Non-IT,Non-ICP,2
+Marketing Operations,None Technical,Non-ICP,2
+Medical,Business Continuity,Non-ICP,2
+Medical,IT Facilities,Non-ICP,2
+Operations,Training,Non-ICP,2
+Procurement,Vendor Management,Procurement,2
+Purchasing,Vendor Management,Procurement,2
+"Risk, Legal Operations",None Technical,Risk/Legal/Compliance,2
+Sales,Training,Non-ICP,2
+Services,Operations,Non-ICP,2
+Software Development,None Technical,IT-Development,2
+Unknown,Integration,Non-ICP,2
+Administration,Business Systems,Non-ICP,1
+Application Development,None Technical,IT-Development,1
+Corporate,Data,Non-ICP,1
+Corporate,Help Desk,Non-ICP,1
+Corporate,Operations,Non-ICP,1
+"Digital Transformation, Information Technology Executive, Information Technology, Engineering & Technical Executive",None Technical,IT-General,1
+Education,Help Desk,Non-ICP,1
+Engineering,Non-IT,Engineering,1
+Epidemiology,None Technical,Non-ICP,1
+Executive,None Technical,Non-ICP,1
+Facilities,Communications,Non-ICP,1
+Finance,Integration,Non-ICP,1
+Finance,Operations,Non-ICP,1
+Governmental Affairs & Regulatory Law,None Technical,Non-ICP,1
+Help Desk / Desktop Services,None Technical,IT-General,1
+Information Technology,None Technical,IT-General,1
+IT,information security,IT-Information Security,1
+IT,Netoworking,IT-Networking,1
+IT,Other,IT-General,1
+IT Operations,Business Continuity,IT-General,1
+Management,IT,Non-ICP,1
+Management,Sales,Non-ICP,1
+Marketing,Communications,Non-ICP,1
+Marketing,Help Desk,Non-ICP,1
+Marketing,Systems,Non-ICP,1
+Medical,IT General,Non-ICP,1
+Operations,Customer-facing role,Non-ICP,1
+Operations,Data,Non-ICP,1
+Operations,Vendor Management,Non-ICP,1
+"Operations Executive, Operations",None Technical,Non-ICP,1
+Project Management,None Technical,Non-ICP,1
+Public Sector,IT General,Non-ICP,1
+Recruiting & Talent Acquisition,None Technical,Non-ICP,1
+Sales,Communications,Non-ICP,1
+Sales,Data,Non-ICP,1
+Sales,Program Management,Non-ICP,1
+Services,Business Systems,Non-ICP,1
+Services,Communications,Non-ICP,1
+Services,Governance Risk Compliance,Risk/Legal/Compliance,1
+Support,Program Management,Non-ICP,1
+Support / Technical Services,None Technical,IT-General,1
+Test / Quality Assurance,None Technical,Non-ICP,1
+Unknown,Business Continuity,Non-ICP,1
+Unknown,Program Management,Non-ICP,1
